@@ -27,7 +27,6 @@ Config = {
     PedPosition = vector3(-500.75, -671.95, 32.05),
     PedRotation = 221.92,
 
-    Cooldown = 900000, -- Temps entre chaque location
 
     MarkerType = 36, -- Pour voir les différents type de marker: https://docs.fivem.net/docs/game-references/markers/
     MarkerSizeLargeur = 1.0, -- Largeur du marker
